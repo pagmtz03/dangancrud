@@ -1,5 +1,3 @@
-// src/lib/validations.js
-
 /**
  * Validaciones para el formulario de personajes
  */

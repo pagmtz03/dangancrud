@@ -1,4 +1,3 @@
-// src/app/page.js
 import DanganronpaCharacterManager from './components/CharacterCrud'
 
 /**

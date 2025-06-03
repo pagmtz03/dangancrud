@@ -1,4 +1,3 @@
-// src/hooks/useCharacters.js
 import { useState, useEffect, useCallback } from 'react'
 import { validateCharacter, sanitizeCharacterData, formatErrorMessage } from '@/lib/validations'
 
